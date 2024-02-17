@@ -1,0 +1,9 @@
+bin/firesafe-vnex-23fff.firebaseapp.com
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+service_keys.json
+.idea/
+.vs/
+bin/
